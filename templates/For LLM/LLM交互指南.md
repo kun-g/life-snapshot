@@ -1,8 +1,8 @@
 ---
 alias: [AI助手交互, LLM对话指南]
 tags: [人生快照, LLM交互, AI助手]
-created: {{date:YYYY-MM-DD}}
-modified: {{date:YYYY-MM-DD}}
+created: 2025-04-01
+modified: 2025-04-01
 ---
 
 # LLM交互指南

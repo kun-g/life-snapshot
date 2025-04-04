@@ -1,8 +1,8 @@
 ---
 alias: [AI助手偏好, 交流指南]
 tags: [人生快照, AI交互, 沟通偏好]
-created: {{date:YYYY-MM-DD}}
-modified: {{date:YYYY-MM-DD}}
+created: 2025-04-01
+modified: 2025-04-01
 ---
 
 # LLM交互偏好
